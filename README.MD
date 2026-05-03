@@ -12,6 +12,7 @@
 🛠️ **I've built**
 - [VPN service](https://github.com/noctadev1337/vless-vpn-tg) — self-hosted VLESS + Telegram bot + YooKassa
 - [tg-fake-status](https://github.com/noctadev1337/tg-fake-status) — fake online status scheduler
+- [lukoil-parser](https://github.com/noctadev1337/lukoil-parser) — Lukoil gas station scraper → Excel export
 
 ---
 
